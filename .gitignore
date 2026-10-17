@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Python generated files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Logs
+*.log
+
+# Data
+data/
